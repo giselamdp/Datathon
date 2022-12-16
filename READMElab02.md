@@ -78,7 +78,7 @@ Eliminacion de Variables
 + 7.-Realizar Prediccion. se realiza de acuerdo a las premisas y se entrega
 
 
-## 🏥 **Conclusiones y resultados** 🏥
+## 🏥 **Desarrollo** 🏥
 Se realizó la entrega y nos dió como resultado
     Recall   0.814684381836615
     Acuracy  0.7690555555555556
